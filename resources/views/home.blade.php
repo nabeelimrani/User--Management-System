@@ -42,7 +42,7 @@
             <li>
               <a href="/home" class="nav-link link-light">
                 <i class="fas fa-tint"></i>&nbsp;&nbsp;
-                Text Drips
+                Text Drips 
               </a>
             </li>
             <li>
